@@ -29,7 +29,7 @@ const BlogList = () => {
       <div id='explore' className="text-center my-10">
 
         <h2 className="text-3xl sm:text-4xl font-bold text-gray-800">
-          Explore articles on <span className="text-[#2183cf]">Hashblog</span>
+          Explore articles on <span className="text-[#2183cf]">blog</span>
         </h2>
 
         <p className="text-gray-500 mt-3 max-w-xl mx-auto text-sm sm:text-base">
