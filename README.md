@@ -40,7 +40,7 @@ ByteInsights is a personal blog focused on sharing technical tutorials, developm
 Follow these steps to run the blog locally on your machine:
 
 ### Prerequisites
-- Node.js 18+ installed
+- Node.js installed
 - npm or yarn package manager
 
 ### Local Setup
