@@ -37,7 +37,7 @@ const Header = () => {
         {/* Description */}
         <p className="mt-6 text-gray-600 max-w-2xl mx-auto text-sm sm:text-base leading-relaxed">
           Discover stories, thinking, and expertise from writers across the globe.
-          Hashblog helps creators publish faster, reach more readers, and build
+          blog helps creators publish faster, reach more readers, and build
           a meaningful audience.
         </p>
 
