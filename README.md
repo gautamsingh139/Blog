@@ -2,7 +2,7 @@
 A modern, fast, and responsive personal tech blog built with Next.js, Tailwind CSS, and MDX, deployed on Vercel.
 
 [![Live Site](https://img.shields.io/badge/Live%20Site-Visit-blue?style=for-the-badge&logo=vercel)](https://blog-beta-ten-96.vercel.app/)
-[![GitHub Stars](https://img.shields.io/github/stars/your-username/byteinsights-blog?style=for-the-badge)](https://github.com/gautamsingh139/byteinsights-blog)
+[![GitHub Stars](https://img.shields.io/github/stars/gautamrajput139/byteinsights-blog?style=for-the-badge)](https://github.com/gautamsingh139/byteinsights-blog)
 [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
 [![Tech Stack](https://img.shields.io/badge/Stack-Next.js%20%7C%20Tailwind%20%7C%20MDX-purple?style=for-the-badge)](https://github.com/gautamsingh139/byteinsights-blog)
 
@@ -46,7 +46,7 @@ Follow these steps to run the blog locally on your machine:
 ### Local Setup
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/byteinsights-blog.git
+   git clone https://github.com/gautamrajput139/byteinsights-blog.git
    cd byteinsights-blog
    ```
 
@@ -71,7 +71,7 @@ Follow these steps to run the blog locally on your machine:
    ```mdx
    ---
    title: "Your Post Title"
-   date: "2024-05-20"
+   date: "2026-05-213"
    tags: ["nextjs", "tailwindcss", "webdev"]
    excerpt: "A brief summary of your post"
    ---
@@ -92,7 +92,7 @@ ByteInsights Blog is automatically deployed to Vercel on every push to the `main
 3. **Environment Variables (Optional)**
    - If using Giscus comments or analytics, add the required environment variables in Vercel:
      ```
-     NEXT_PUBLIC_GISCUS_REPO=your-username/byteinsights-blog
+     NEXT_PUBLIC_GISCUS_REPO=gautamrajput139/byteinsights-blog
      NEXT_PUBLIC_GISCUS_REPO_ID=your-repo-id
      NEXT_PUBLIC_GISCUS_CATEGORY=Announcements
      NEXT_PUBLIC_GISCUS_CATEGORY_ID=your-category-id
@@ -126,4 +126,4 @@ This project is licensed under the MIT License—see the [LICENSE](LICENSE) file
 ---
 
 ### Customization Notes
-Replace placeholders (e.g., `your-username`, screenshot links, environment variables) with your actual project details to make this README fully tailored to your blog. Add a `CONTRIBUTING.md` file if you want to formalize contribution guidelines further.
+Replace placeholders (e.g., `gautamrajput139`, screenshot links, environment variables) with your actual project details to make this README fully tailored to your blog. Add a `CONTRIBUTING.md` file if you want to formalize contribution guidelines further.
