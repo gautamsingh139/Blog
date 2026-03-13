@@ -8,7 +8,7 @@ const NewsLetter = () => {
 
         <h2 className="text-3xl md:text-4xl font-bold text-gray-800">
           Never Miss a Blog on{" "}
-          <span className="text-[#2183cf]">Hashblog</span>
+          <span className="text-[#2183cf]">blog</span>
         </h2>
 
         <p className="text-gray-500 mt-4 mb-10 max-w-xl mx-auto">
